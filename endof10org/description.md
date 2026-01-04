@@ -1,0 +1,2 @@
+Thanks to KDE for supporting the project by hosting the website and providing the infrastructure. You can contact the
+KDE Webmasters (public mailing list) or see the Privacy Policy and Legal Notices for more information.
